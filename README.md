@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
 
-- 🔭 I’m currently working on [MERN-development](https://github.com/NikolayDevGifaby/MERN-development)
+- 🔭 I’m currently working on NoLang
 
 - 📫 How to reach me **nikogogitadze2@gmail.com**
 
