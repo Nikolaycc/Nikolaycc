@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
 
-- 🔭 I’m currently working on NoLang Project
+- 🔭 I’m currently working on Hlib
 
 - 📫 How to reach me **nikogogitadze2@gmail.com**
 
