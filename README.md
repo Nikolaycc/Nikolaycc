@@ -8,4 +8,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikolayKYS&theme=gruvbox&hide_border=true)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NikolayKYS&icon=5&color=7)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=NikolayKYS&icon=5&color=7)](https://visitcount.itsvg.in)
