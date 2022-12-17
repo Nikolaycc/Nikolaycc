@@ -1,9 +1,4 @@
-
-
 <div align="center">
-  <br>
-  <a href="https://github.com/NikolayKYS/"><img src="https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif" width="124" height="130"></a>
-  <p>Booo...</p>
-  <br>
+  <a href="https://github.com/NikolayKYS/"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="124" height="130"></a>
   <br>
 </a>
