@@ -1,4 +1,4 @@
 <div align="center">
-  <a href="https://github.com/NikolayKYS/"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="124" height="130"></a>
+  <a href="https://github.com/NikolayKYS/"><img src="https://media3.giphy.com/media/3o6ggbCzAotIx43ey4/giphy.gif?cid=ecf05e47ne9hxeqzpssz0apl1zwy1xcw0e7daohqzo1zto21&rid=giphy.gif&ct=g" width="248" height="260"></a>
   <br>
 </a>
